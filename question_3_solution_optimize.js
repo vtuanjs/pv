@@ -10,7 +10,7 @@ Với L = 9, R = 13 thì circlenum(L,R) = 2.  Trong đoạn [9; 13] có 2 số v
 // Comment line dưới đây để không hiển thị phần debug log
 // Lưu ý: Nếu bạn dùng vscode, phần log hiển thị khi xử lý số >=10^6 sẽ không chính xác.
 // Đừng bận tâm về nó, vì số count vẫn đúng!
-console.debug = function() {}; 
+// console.debug = function() {};
 
 // SUPER FAST SOLUTIOp
 function circlenum(l, r) {
